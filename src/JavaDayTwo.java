@@ -12,6 +12,7 @@ public class JavaDayTwo {
 		}
 		public void StudentAddress() {
 		System.out.println("Address: Chennai");
+		System.out.println("address");
 		}
 		public static void main(String[] arg) {
 		JavaDayTwo info = new JavaDayTwo();
